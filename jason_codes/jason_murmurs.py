@@ -14,6 +14,6 @@ def jack_say_something():
 
 if __name__ == '__main__':
     print("Jason: Hey, My name is Jason :D")
-    # jack_wake_up()
+    jack_wake_up()
     # my_one_day_work()
     # jack_say_something()
